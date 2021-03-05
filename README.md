@@ -2,4 +2,4 @@
 producers, queues, topics, consumers
 
 * Architecturial diagram
-  ![diagram](C:\Users\Melvo\Desktop\Capture.PNG)
+  <img src="https://res.cloudinary.com/dyjp6vejk/image/upload/v1614970137/Capture_kezkf9.png" />
