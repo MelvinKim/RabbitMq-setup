@@ -2,4 +2,4 @@
 producers, queues, topics, consumers
 
 * Architecturial diagram
-  ![alt diagram](C:\Users\Melvo\Desktop\Capture.PNG)
+  ![diagram](C:\Users\Melvo\Desktop\Capture.PNG)
